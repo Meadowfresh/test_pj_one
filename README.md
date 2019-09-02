@@ -10,5 +10,8 @@ The following liberies will need to be downloaded if they are not already instal
 ・requests
 ```
 
+・Check the code comments to fill in the needed information, eg filename, url, etc
+・Set up the email address to allow usage via apps
+
 ### Caution
 To prevent the scrapper from being blocked, it is recommened to have a selection of proxy IPs to select from randomly.
